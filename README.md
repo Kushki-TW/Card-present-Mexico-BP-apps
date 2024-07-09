@@ -5,3 +5,4 @@
 * [SDK Dependency](https://github.com/Kushki-TW/Card-present-Mexico-BP-apps/blob/main/sdk-android-2.7.8.3.aar).
 * [Google Mobile Services (GMS) Dependency](https://github.com/Kushki-TW/Card-present-Mexico-BP-apps/blob/main/devel-gms-google-debug-4.3.24.apk).
 * [POS demo app](https://github.com/Kushki-TW/Card-present-Mexico-BP-apps/blob/main/app-debug.apk).
+* [TSYS APK](https://github.com/Kushki-TW/Card-present-Mexico-BP-apps/blob/main/BPCKT-Elphrona-billpocketProdGmsAsyncImagesRelease-145-4.2.8-QBT.apk).
